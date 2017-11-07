@@ -4,8 +4,13 @@
 <dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.weiwei.hy</key>
+		<string>hy_adhoc_new_device</string>
+	</dict>
 	<key>teamID</key>
-	<string>4DPS4FJPL9</string>
+	<string>HDL3K2T9R8</string>
 	<key>uploadSymbols</key>
 	<true/>
 </dict>
